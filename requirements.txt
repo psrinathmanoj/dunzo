@@ -1,0 +1,7 @@
+gspread==5.7.1
+gspread_dataframe==3.3.0
+numpy==1.23.4
+opencv_python==4.6.0.66
+pandas==1.5.1
+pyzbar==0.1.9
+streamlit==1.16.0
