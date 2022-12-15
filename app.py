@@ -1,6 +1,4 @@
 import streamlit as st
-from pyzbar import pyzbar
-import cv2
 import numpy as np
 import pandas as pd
 
