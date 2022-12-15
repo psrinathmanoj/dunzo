@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tvs-dunzo",
+  "private_key_id": "1223551bd5058d182593f189a29aefb228d76a3b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDCqj8HASgTy7az\nFM/zAzLBkkT2T9YoYqrGw6N5EqJ9VuO5sgCpOz+jGVRdzufy1PmIta7yAg33sH01\npfy+gZfk/CUSpeWceqJCF2PoHOPqNIlg3YgcEcL1ljPqxEYkzuzkRqBTqyzQsH+v\ntNWM5nMx8hO5K3PlEjXZhuImJKgyBOku9q9I0m3soV5PQpHMa7j82XmxBpDqI+Q4\nSUtBAMpu/fkSogs2yVjijPJTaFBPXERigIjVBefWrbWb1ke9ZWjfsgTV4X8Q35yl\nh4X+DQpt5lFdOyOwZdOyynjBbUUSFyAUeAqLRwtYPwO8jwtTJWz3PeKuo41vWfVw\ntbDthmK9AgMBAAECgf8XjfhdQev+1gdV2eP9VU3I9fpvtYc0Wk08T4ZdXXCZyPW8\nN59KJEh6BP3nCZ53pDQkt/gm5KV5rmyUloEilRWCvBxNAWwX/1p6bunWRC9kzapA\nooSuxd04nNe3WSr8uX1m4W+8VjX4EgHz/vadt62i97U7WN+/HnZ5FKk+MC/TGsSH\nUaUvCm9OuF3W7MtSBpZXtHQPzeHgwV16QfkC4A5jDKGy9yrUH4KEXVXRQLSG4C7d\nuJmTxJBzY6YxhNmCznCTJEWPIjx0BnFopOXyf9g67r5nPFREMupU9sKBy93qEjbn\nT88lxEWaZXJ5jdpkAwt1u0zPtAiZf1uJg+EHIjUCgYEA+oXdPAL1ZtZ1au9CnyMu\n/LFB+ar52mRHnbuF35yFuuQg1Au2uJPCI0cI+6r9Ccwtr2D0+cgZr9Kgp5fL5aRS\nXFJwyjvGCW619qt+qx1lQ4MO+jN8Z4hCyMYe2vrwk9GH/dUn6f84ACsZfkpeN6jL\nIjfoIEXphc6OG3f6jK3WdsMCgYEAxuvBKn23lWO3RWdN+0P6LP/1WaVKy4O7Ykj6\na1pkar+KWSzaNPkFxALqJOc4gyaEyD4GFqlrH0DMYs19JbqtrM2DHSEGxmwMlxTc\ntNYSUqYStep1dLu4U+nA5ZEszrUcKEF9FEs5+Twdwnzow7CXaACXP34PmPbhLiop\nFSDxKH8CgYBh7YXneXiX9Gj9nf0627P4TwntIGp+dgiQncbc/ABCZ/51JQcN66RN\nyey3A8XZ2JhbH9li8lcoJXtrR6kKYUtYj1lLlEX7Ve2HOM5Q8TKuS0LFhu6wQdFp\nThitnL4B6jvweywZCgzH9BEJDuT5eN++xn/Ubb+08GMYVbP43dMhpQKBgBzfCuJH\n7OVZ27fPDppxe1YcsFeajgiLzh6tyOrb68cylbnrsKAPpK6WXbWNeb5PUOZfWjLf\n1BRtKz0L5iYbuiliiq0npfwWop0rAf2dNHuabwzIQtP2iwJi4wRu1boKv1N4bdcM\nNBXgi9E2n/IHJ3KI42rruQfSjUxOAjh214mxAoGBAJS8Qt7UHKlsa7RnaKeWeiYZ\nA5p0DqhCvo9pmdJe1ePPLsDGdwULW4hhML5lBcNwZboaZIqv20Wi9QimgbuQ3jWQ\nTqz8Z+9yww1D71okADQupZhd6CpzbVgssk3R2KvpQGgzk17SQfXbq3Hr3TCiS5Xo\nTbAmlNZCJ6sQ6wcH54yO\n-----END PRIVATE KEY-----\n",
+  "client_email": "tvsduzno@tvs-dunzo.iam.gserviceaccount.com",
+  "client_id": "107028844292421596469",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tvsduzno%40tvs-dunzo.iam.gserviceaccount.com"
+}
